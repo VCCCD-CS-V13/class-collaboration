@@ -16,11 +16,11 @@ int main()
 	while (sentinel == true)
 	{
 		cout << endl << "Select an option:" << endl
-					 << "\t1) Multiplication" << endl
-					 << "\t2) Division" << endl
-					 << "\t3) Subtraction" << endl
-					 << "\t4) Addition" << endl
-				     << "\t5) Quit" << endl;
+			     << "\t1) Multiplication" << endl
+			     << "\t2) Division" << endl
+			     << "\t3) Subtraction" << endl
+			     << "\t4) Addition" << endl
+			     << "\t5) Quit" << endl;
 		cin >> option;
 		switch (option)
 		{
