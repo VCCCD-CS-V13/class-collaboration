@@ -1,4 +1,3 @@
 ﻿  ConsoleApplication1.cpp
-c:\class-collaboration\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4700: uninitialized local variable 'a' used
   ConsoleApplication1.vcxproj -> C:\class-collaboration\ConsoleApplication1\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\class-collaboration\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
