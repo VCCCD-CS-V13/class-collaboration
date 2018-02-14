@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: ConsoleApplication74, Configuration: Debug Win32 ------
+1>square.cpp
+1>ConsoleApplication74.vcxproj -> c:\users\vscilab\documents\visual studio 2017\Projects\ConsoleApplication74\Debug\ConsoleApplication74.exe
+1>ConsoleApplication74.vcxproj -> c:\users\vscilab\documents\visual studio 2017\Projects\ConsoleApplication74\Debug\ConsoleApplication74.pdb (Partial PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
