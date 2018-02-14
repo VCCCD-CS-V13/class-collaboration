@@ -4,11 +4,11 @@
 
 #include "stdafx.h"
 #include <iostream>
-#include "Test.h"
+#include "FabianEnriquez.h"
 
 int main()
 {
-	Test user;
+	FabianEnriquez user;
 	int x;
 	std::cout << "Please enter number of rows: ";
 	std::cin >> x;

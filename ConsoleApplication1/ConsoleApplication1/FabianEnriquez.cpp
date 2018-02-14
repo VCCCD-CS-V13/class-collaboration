@@ -1,17 +1,17 @@
 #include "stdafx.h"
-#include "Test.h"
+#include "FabianEnriquez.h"
 #include <iostream>
 
 
-Test::Test()
+FabianEnriquez::FabianEnriquez()
 {
 }
 
 
-Test::~Test()
+FabianEnriquez::~FabianEnriquez()
 {
 }
-void Test::Sqaure(int a)
+void FabianEnriquez::Sqaure(int a)
 {
 	for (int i = 0; i < a; i++)
 	{
