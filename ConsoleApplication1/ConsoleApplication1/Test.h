@@ -2,7 +2,7 @@
 class Test
 {
 public:
-	Test(); \
+	Test(); 
 	void Sqaure(int);
 	~Test();
 };
