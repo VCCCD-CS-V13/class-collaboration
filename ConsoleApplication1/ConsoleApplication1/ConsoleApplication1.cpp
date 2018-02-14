@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 #include <iostream>
-#include "myClass1.h"
+#include "josesclass1.h"
 
 
 int main()

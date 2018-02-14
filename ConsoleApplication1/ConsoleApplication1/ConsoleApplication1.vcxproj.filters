@@ -24,7 +24,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="myClass1.h">
+    <ClInclude Include="josesclass1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,7 +35,7 @@
     <ClCompile Include="ConsoleApplication1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="myClass1.cpp">
+    <ClCompile Include="josesclass1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
