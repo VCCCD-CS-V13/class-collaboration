@@ -5,7 +5,7 @@
 Rogers_Class::Rogers_Class()
 {
 	sides = 1;
-	radius = 1
+	radius = 1;
 }
 
 Rogers_Class::Rogers_Class(int a)
